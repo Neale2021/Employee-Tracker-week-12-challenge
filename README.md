@@ -21,4 +21,12 @@ Neale Philippe
 Find me on GitHub: [Neale2021](https://github.com/Neale2021)<br />
 <br />
 ✉️ Email me : neale@adflexmarketing.com.au<br /><br />
+
+Link to walk through video on node index.js
+
+https://youtu.be/0jhjdLorvoY
+
+Link to gitHub repository
+
+
     
