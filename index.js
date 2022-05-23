@@ -37,7 +37,7 @@ function userPrompts() {
         "Add role",
         "Add employee",
         "Update Employee Role",
-        "End"]
+        "Exit"]
       }
     ])
     .then(function ({ task }) {
