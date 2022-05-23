@@ -1,4 +1,4 @@
-<h1 align="center">Employee Tarcker SQL 👋</h1>
+<h1 align="center">Employee Tracker SQL 👋</h1>
   
 ## Table of Contents
 - [Tasks](#Tasks)
@@ -28,5 +28,5 @@ https://youtu.be/0jhjdLorvoY
 
 Link to gitHub repository
 
-
+https://github.com/Neale2021/Employee-Tracker-week-12-challenge
     
